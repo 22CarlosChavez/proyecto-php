@@ -56,7 +56,7 @@ if($solicitud === FALSE){
         <div class="imagen-formulario">
             <img src="../images/formulario.png" alt="" class="imagen">
         </div>
-        <div>
+        <div class="form-editar">
             <form action="actualizar_informacion.php" method="post" class="formulario-editar">
                 <div class="id">
                     <label for="">No. Identificador</label>
